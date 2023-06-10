@@ -5,6 +5,6 @@ module.exports = {
 		.setName('wallahi')
 		.setDescription('Replies with you get the slipper!'),
 	async execute(interaction) {
-		await interaction.reply('you get the slipper!');
+		await interaction.reply('you get the slipper <:slipper:1117144939785093263>!');
 	},
 };
