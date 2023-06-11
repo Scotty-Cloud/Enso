@@ -5,6 +5,7 @@ module.exports = {
 		.setName('options')
 		.setDescription('Replies with list of options!'),
 	async execute(interaction) {
-		await interaction.reply('try using these commands: ');
+		await interaction.reply('try typing these commands: ');
+		await interaction.reply('affirmation, enso, focus, inspire, prayer, ukiyo ');
 	},
 };
