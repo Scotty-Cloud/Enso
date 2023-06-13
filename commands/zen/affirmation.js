@@ -5,6 +5,6 @@ module.exports = {
 		.setName('affirmation')
 		.setDescription('Replies with positive reassurance!'),
 	async execute(interaction) {
-		await interaction.reply('You will succeed. Maybe not immediately, but definitely!');
+		await interaction.reply('You will succeed. Maybe not immediately, but definitely.');
 	},
 };

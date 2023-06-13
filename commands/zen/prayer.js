@@ -5,6 +5,6 @@ module.exports = {
 		.setName('prayer')
 		.setDescription('Replies with self reassurance!'),
 	async execute(interaction) {
-		await interaction.reply('If there is a Goliath in front you, There is a Davis inside of you!');
+		await interaction.reply('If there is a Goliath in front you, There is a Davis inside of you.');
 	},
 };

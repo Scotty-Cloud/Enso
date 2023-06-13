@@ -5,6 +5,6 @@ module.exports = {
 		.setName('inspire')
 		.setDescription('Replies with inspiring message!'),
 	async execute(interaction) {
-		await interaction.reply('When you get tired, learn to rest not quit!');
+		await interaction.reply('When you get tired, learn to rest not quit.');
 	},
 };

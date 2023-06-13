@@ -5,6 +5,6 @@ module.exports = {
 		.setName('focus')
 		.setDescription('Replies with focusing thoughts!'),
 	async execute(interaction) {
-		await interaction.reply('Restart, Reset and Refocus. Your time will come!');
+		await interaction.reply('Restart, Reset and Refocus. Your time will come.');
 	},
 };

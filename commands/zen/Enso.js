@@ -5,6 +5,6 @@ module.exports = {
 		.setName('enso')
 		.setDescription('Replies with zen message!'),
 	async execute(interaction) {
-		await interaction.reply('Imperfection is inherent in life. Have the strength to move forward!');
+		await interaction.reply('Imperfection is inherent in life. Have the strength to move forward.');
 	},
 };

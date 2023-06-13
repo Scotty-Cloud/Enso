@@ -5,6 +5,6 @@ module.exports = {
 		.setName('life')
 		.setDescription('Replies with life experiences!'),
 	async execute(interaction) {
-		await interaction.reply('Life is not about the big things you do, but the small experiences you make!');
+		await interaction.reply('Life is not about the big things you do, but the small experiences you make.');
 	},
 };

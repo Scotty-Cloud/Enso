@@ -5,6 +5,6 @@ module.exports = {
 		.setName('soul')
 		.setDescription('Replies with comforting your soul!'),
 	async execute(interaction) {
-		await interaction.reply('Satisfy your soul not society!');
+		await interaction.reply('Satisfy your soul not society.');
 	},
 };
