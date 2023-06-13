@@ -5,7 +5,7 @@ Where peace and tranquility finds you.
 Enso is a discord bot programmed with commands utilizing discords newly implemented "Slash Command" feature.<br>
 The bot replies with uplifting positive affirmations for when you are feeling down and need a little pick me up. 
 
-<img src="assets/ensoCommands.png">
+<img src="assets/EnsoPreview.png">
 
 Technologies Used
 ==================
